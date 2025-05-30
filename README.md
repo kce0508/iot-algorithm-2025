@@ -97,7 +97,7 @@ https://github.com/user-attachments/assets/74e4dadc-e0c2-476a-9216-acfe85928103
         - 퀵 정렬
         - 정렬 알고리즘 응용
 
-        <img src="./image/da002.png"width="600">
+        <img src="./image/da002.png" width="600">
 
     - 동적 계획법
 
